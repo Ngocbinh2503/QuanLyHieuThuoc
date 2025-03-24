@@ -1,0 +1,30 @@
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\BLL\bin\Debug\BLL.dll.config
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\BLL\bin\Debug\BLL.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\BLL\bin\Debug\BLL.pdb
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\BLL\bin\Debug\DAL.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\BLL\bin\Debug\EntityFramework.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\BLL\bin\Debug\DAL.pdb
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\BLL\bin\Debug\DAL.dll.config
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\BLL\bin\Debug\EntityFramework.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\BLL\obj\Debug\BLL.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\BLL\obj\Debug\BLL.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\BLL\bin\Debug\BLL.dll.config
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\BLL\bin\Debug\BLL.dll
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\BLL\bin\Debug\BLL.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\BLL\bin\Debug\DAL.dll
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\BLL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\BLL\bin\Debug\DAL.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\BLL\bin\Debug\DAL.dll.config
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\BLL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\BLL\obj\Debug\BLL.dll
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\BLL\obj\Debug\BLL.pdb

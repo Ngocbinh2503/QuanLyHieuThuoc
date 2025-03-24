@@ -1,0 +1,231 @@
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\UIUXHIEUTHUOC.exe.config
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\UIUXHIEUTHUOC.exe
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\UIUXHIEUTHUOC.pdb
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Data.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Data.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.csproj.AssemblyReference.cache
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.Properties.Resources.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.frmQuanLyThuoc.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.csproj.GenerateResource.cache
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.exe.licenses
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.csproj.CoreCompileInputs.cache
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.csproj.CopyComplete
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.exe
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.pdb
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\BLL.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DAL.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\EntityFramework.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\BLL.pdb
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\BLL.dll.config
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DAL.pdb
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DAL.dll.config
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\EntityFramework.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.frmNhaSanXuat.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmNhaCungCap.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Images.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmLoai.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmNguoiDung.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmDuocSi.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIUser.frmKhachHang.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIUser.frmSanPham.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIUser.frmNhapHang.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmKhoHang.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIUser.frmChiTietPhieuNhap.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.frmDangNhap.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.frmWaiting.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.frmUser.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmChiTietSanPham.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraScheduler.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIUser.frmSelling.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Mvvm.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Mvvm.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.rptHoaDon.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmBaoCao.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Dashboard.v22.2.Core.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Dashboard.v22.2.Win.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Map.v22.2.Core.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.TreeMap.v22.2.Core.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraGauges.v22.2.Win.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraMap.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraTreeMap.v22.2.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.dll
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Dashboard.v22.2.Core.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Dashboard.v22.2.Win.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Map.v22.2.Core.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.TreeMap.v22.2.Core.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraGauges.v22.2.Win.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraMap.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraTreeMap.v22.2.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.xml
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.rptBaoCao.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmThongKeTonKho.resources
+D:\CSharp\LAPTRINHWEB\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.rptThongKeTonKho.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.exe
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.frmDangNhap.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.frmUser.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.frmWaiting.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmBaoCao.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmChiTietSanPham.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmThongKeTonKho.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.rptBaoCao.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.rptThongKeTonKho.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.frmNhaSanXuat.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.frmQuanLyThuoc.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmDuocSi.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmKhoHang.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmLoai.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmNguoiDung.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIAdmin.frmNhaCungCap.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIUser.frmChiTietPhieuNhap.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIUser.frmKhachHang.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIUser.frmNhapHang.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIUser.frmSanPham.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.UIUser.frmSelling.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.rptHoaDon.resources
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.exe.licenses
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\UIUXHIEUTHUOC.exe.config
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\UIUXHIEUTHUOC.exe
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\UIUXHIEUTHUOC.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\BLL.dll
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DAL.dll
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\BLL.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\BLL.dll.config
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DAL.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DAL.dll.config
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Dashboard.v22.2.Core.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Dashboard.v22.2.Win.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Map.v22.2.Core.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Mvvm.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.TreeMap.v22.2.Core.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraGauges.v22.2.Win.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraMap.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraTreeMap.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEUTHUOC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\QL_HieuThuocWinForm\QL_HieuThuocWinForm\UIUXHIEUTHUOC\obj\Debug\UIUXHIEU.B6F6316B.Up2Date

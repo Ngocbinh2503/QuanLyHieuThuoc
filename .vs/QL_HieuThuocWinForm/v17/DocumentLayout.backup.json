@@ -1,0 +1,1433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\ql_hieuthuocwinform\\ql_hieuthuocwinform\\dal\\databaseconnect\\windowsauthenticationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\databaseconnect\\windowsauthenticationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DAL||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\ql_hieuthuocwinform\\ql_hieuthuocwinform\\dal\\databaseconnect\\sqlauthenticationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\databaseconnect\\sqlauthenticationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\ql_hieuthuocwinform\\ql_hieuthuocwinform\\dal\\databaseconnect\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\databaseconnect\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmchitietphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmchitietphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\ql_hieuthuocwinform\\ql_hieuthuocwinform\\dal\\khachhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\khachhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmselling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmselling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmselling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmselling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\cthoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\cthoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|solutionrelative:bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\bll\\cthoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|solutionrelative:bll\\cthoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\bll\\authenticationbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|solutionrelative:bll\\authenticationbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\frmduocsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\frmduocsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\frmduocsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\frmduocsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\nhacungcapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\nhacungcapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmchitietphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmchitietphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\bll\\chitiethanghoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|solutionrelative:bll\\chitiethanghoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\bll\\phieunhapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|solutionrelative:bll\\phieunhapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\bll\\duocsibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|solutionrelative:bll\\duocsibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\bll\\chitietphieunhapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|solutionrelative:bll\\chitietphieunhapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\chitietphieunhapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\chitietphieunhapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\bll\\nguoidungbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|solutionrelative:bll\\nguoidungbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\bll\\nhacungcapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F493152E-28E9-4221-BE64-B11EEB2A08A3}|BLL\\BLL.csproj|solutionrelative:bll\\nhacungcapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\frmchitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\frmchitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\mainfrmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\mainfrmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\rptthongketonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\rptthongketonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\frmthongketonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\frmthongketonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\frmthongketonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\frmthongketonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\chitiethanghoadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\chitiethanghoadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\rptthongketonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\rptthongketonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\duocsidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\duocsidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\khodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\khodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\loaidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\loaidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\nguoidungdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\nguoidungdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\nhasanxuatdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\nhasanxuatdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\dto\\chitietphieunhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\dto\\chitietphieunhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\frmthongketonkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\frmthongketonkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\mainfrmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\mainfrmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\rptbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\rptbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\rptbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\rptbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\frmbaocao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\frmbaocao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\rpthoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\rpthoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\dto\\baocaocthoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\dto\\baocaocthoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\dto\\chitiethoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\dto\\chitiethoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\dto\\phieunhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\dto\\phieunhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\dto\\chitiethanghoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\dto\\chitiethanghoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\frmkhohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\frmkhohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\frmnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\frmnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\frmchitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\frmchitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmselling.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmselling.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmselling.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmselling.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmnhasanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmnhasanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\rpthoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\rpthoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\frmwaiting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\frmwaiting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\frmuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\frmuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\frmduocsi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\frmduocsi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\mainfrmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\mainfrmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\frmnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\frmnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmnhasanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmnhasanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiuser\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiuser\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\uiuxhieuthuoc\\uiadmin\\frmkhohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F50BB-A07C-4CA6-B1FD-C0FD44F799D0}|UIUXHIEUTHUOC\\UIUXHIEUTHUOC.csproj|solutionrelative:uiuxhieuthuoc\\uiadmin\\frmkhohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\sanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\sanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\qlhieuthuoc.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\qlhieuthuoc.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\tbl_nhasanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\tbl_nhasanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\tbl_chitiethanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\tbl_chitiethanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\tbl_loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\tbl_loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\tbl_nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\tbl_nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\tbl_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\tbl_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\dal\\dto\\sanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|solutionrelative:dal\\dto\\sanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FF794B-8215-40A8-9076-479BD39BF063}|DAL\\DAL.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\ql_hieuthuocwinform\\ql_hieuthuocwinform\\dal\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{4386f565-c7b6-415a-bbab-f3a033ede482}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-24T13:55:24.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DatabaseConnect\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "DAL\\DatabaseConnect\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DatabaseConnect\\DatabaseContext.cs",
+              "RelativeToolTip": "DAL\\DatabaseConnect\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:54:45.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowsAuthenticationDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DatabaseConnect\\WindowsAuthenticationDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\DatabaseConnect\\WindowsAuthenticationDAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DatabaseConnect\\WindowsAuthenticationDAL.cs",
+              "RelativeToolTip": "DAL\\DatabaseConnect\\WindowsAuthenticationDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:49:22.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlAuthenticationDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DatabaseConnect\\SqlAuthenticationDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\DatabaseConnect\\SqlAuthenticationDAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DatabaseConnect\\SqlAuthenticationDAL.cs",
+              "RelativeToolTip": "DAL\\DatabaseConnect\\SqlAuthenticationDAL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:47:09.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.064Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\frmDangNhap.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\frmDangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\frmUser.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\frmUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\frmUser.cs [Design]",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\frmUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.061Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmSelling.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmSelling.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmSelling.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmSelling.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIUser\\frmSelling.cs",
+              "ViewState": "AQIAAE8BAAAAAAAAAAApwGQBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:42.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KhachHangDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\KhachHangDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\KhachHangDAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\KhachHangDAL.cs",
+              "RelativeToolTip": "DAL\\KhachHangDAL.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAwBAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:42.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\Program.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\Program.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmChiTietPhieuNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmChiTietPhieuNhap.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmChiTietPhieuNhap.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmChiTietPhieuNhap.cs [Design]",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIUser\\frmChiTietPhieuNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.041Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmKhachHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIUser\\frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.021Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmSelling.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmSelling.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmSelling.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmSelling.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:42.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CTHoaDonDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\CTHoaDonDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\CTHoaDonDAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\CTHoaDonDAL.cs",
+              "RelativeToolTip": "DAL\\CTHoaDonDAL.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwAcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:42.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HoaDonBLL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\HoaDonBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\HoaDonBLL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\HoaDonBLL.cs",
+              "RelativeToolTip": "BLL\\HoaDonBLL.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAADwv0cAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:42.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CTHoaDonBLL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\CTHoaDonBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\CTHoaDonBLL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\CTHoaDonBLL.cs",
+              "RelativeToolTip": "BLL\\CTHoaDonBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:42.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmDuocSi.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmDuocSi.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\frmDuocSi.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmDuocSi.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIAdmin\\frmDuocSi.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:42.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmDuocSi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmDuocSi.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\frmDuocSi.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmDuocSi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:42.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmLoai.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmLoai.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmLoai.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmLoai.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIUser\\frmLoai.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAIAwwLEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:42.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HoaDonDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\HoaDonDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\HoaDonDAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\HoaDonDAL.cs",
+              "RelativeToolTip": "DAL\\HoaDonDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:42.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthenticationBLL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\AuthenticationBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\AuthenticationBLL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\AuthenticationBLL.cs",
+              "RelativeToolTip": "BLL\\AuthenticationBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NhaCungCapDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\NhaCungCapDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\NhaCungCapDAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\NhaCungCapDAL.cs",
+              "RelativeToolTip": "DAL\\NhaCungCapDAL.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAA0wCMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\AccountManager.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\AccountManager.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\AccountManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmNhapHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmNhapHang.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmNhapHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmNhapHang.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIUser\\frmNhapHang.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAswEgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmNhapHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmNhapHang.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmNhapHang.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmNhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DuocSiBLL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\DuocSiBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\DuocSiBLL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\DuocSiBLL.cs",
+              "RelativeToolTip": "BLL\\DuocSiBLL.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAxwB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmChiTietPhieuNhap.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmChiTietPhieuNhap.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmChiTietPhieuNhap.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmChiTietPhieuNhap.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIUser\\frmChiTietPhieuNhap.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAUwP0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChiTietHangHoaBLL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\ChiTietHangHoaBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ChiTietHangHoaBLL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\ChiTietHangHoaBLL.cs",
+              "RelativeToolTip": "BLL\\ChiTietHangHoaBLL.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAywA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PhieuNhapBLL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\PhieuNhapBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\PhieuNhapBLL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\PhieuNhapBLL.cs",
+              "RelativeToolTip": "BLL\\PhieuNhapBLL.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAswF0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NguoiDungBLL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\NguoiDungBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\NguoiDungBLL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\NguoiDungBLL.cs",
+              "RelativeToolTip": "BLL\\NguoiDungBLL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvzMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ChiTietPhieuNhapBLL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\ChiTietPhieuNhapBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ChiTietPhieuNhapBLL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\ChiTietPhieuNhapBLL.cs",
+              "RelativeToolTip": "BLL\\ChiTietPhieuNhapBLL.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAowCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ChiTietPhieuNhapDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\ChiTietPhieuNhapDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ChiTietPhieuNhapDAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\ChiTietPhieuNhapDAL.cs",
+              "RelativeToolTip": "DAL\\ChiTietPhieuNhapDAL.cs",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAowCsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NhaCungCapBLL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\NhaCungCapBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\NhaCungCapBLL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\BLL\\NhaCungCapBLL.cs",
+              "RelativeToolTip": "BLL\\NhaCungCapBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmSanPham.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MainFrmAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\MainFrmAdmin.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\MainFrmAdmin.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\MainFrmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmThongKeTonKho.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmThongKeTonKho.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\frmThongKeTonKho.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmThongKeTonKho.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIAdmin\\frmThongKeTonKho.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAF8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\App.Config",
+              "RelativeDocumentMoniker": "DAL\\App.Config",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\App.Config",
+              "RelativeToolTip": "DAL\\App.Config",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-24T13:21:43.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\App.config",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\App.config",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\App.config",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-24T13:21:43.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmChiTietSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmChiTietSanPham.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\frmChiTietSanPham.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmChiTietSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "rptThongKeTonKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\rptThongKeTonKho.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\rptThongKeTonKho.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\rptThongKeTonKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-03-24T13:21:43.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmThongKeTonKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmThongKeTonKho.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\frmThongKeTonKho.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmThongKeTonKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ChiTietHangHoaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\ChiTietHangHoaDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ChiTietHangHoaDAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\ChiTietHangHoaDAL.cs",
+              "RelativeToolTip": "DAL\\ChiTietHangHoaDAL.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAwK4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "rptThongKeTonKho.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\rptThongKeTonKho.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\rptThongKeTonKho.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\rptThongKeTonKho.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIAdmin\\rptThongKeTonKho.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwDUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-03-24T13:21:43.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DuocSiDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DuocSiDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\DuocSiDAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DuocSiDAL.cs",
+              "RelativeToolTip": "DAL\\DuocSiDAL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "KhoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\KhoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\KhoDAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\KhoDAL.cs",
+              "RelativeToolTip": "DAL\\KhoDAL.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoaiDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\LoaiDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\LoaiDAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\LoaiDAL.cs",
+              "RelativeToolTip": "DAL\\LoaiDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NguoiDungDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\NguoiDungDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\NguoiDungDAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\NguoiDungDAL.cs",
+              "RelativeToolTip": "DAL\\NguoiDungDAL.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "NhaSanXuatDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\NhaSanXuatDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\NhaSanXuatDAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\NhaSanXuatDAL.cs",
+              "RelativeToolTip": "DAL\\NhaSanXuatDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmThongKeTonKho.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmThongKeTonKho.Designer.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\frmThongKeTonKho.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmThongKeTonKho.Designer.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIAdmin\\frmThongKeTonKho.Designer.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAYwPoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-24T13:21:43.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ChiTietPhieuNhapDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DTO\\ChiTietPhieuNhapDTO.cs",
+              "RelativeDocumentMoniker": "DAL\\DTO\\ChiTietPhieuNhapDTO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DTO\\ChiTietPhieuNhapDTO.cs",
+              "RelativeToolTip": "DAL\\DTO\\ChiTietPhieuNhapDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwBkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmBaoCao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmBaoCao.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\frmBaoCao.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmBaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MainFrmAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\MainFrmAdmin.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\MainFrmAdmin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\MainFrmAdmin.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\MainFrmAdmin.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAswJIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "rptBaoCao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\rptBaoCao.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\rptBaoCao.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\rptBaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-03-24T13:21:43.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "rptBaoCao.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\rptBaoCao.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\rptBaoCao.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\rptBaoCao.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIAdmin\\rptBaoCao.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-03-24T13:21:43.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmBaoCao.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmBaoCao.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\frmBaoCao.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmBaoCao.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIAdmin\\frmBaoCao.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frmBaoCao.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmBaoCao.Designer.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\frmBaoCao.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmBaoCao.Designer.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIAdmin\\frmBaoCao.Designer.cs",
+              "ViewState": "AQIAAAIBAAAAAAAAAAD4vxABAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-24T13:21:43.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "rptHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\rptHoaDon.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\rptHoaDon.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\rptHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-03-24T13:21:43.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BaoCaoCTHoaDonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DTO\\BaoCaoCTHoaDonDTO.cs",
+              "RelativeDocumentMoniker": "DAL\\DTO\\BaoCaoCTHoaDonDTO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DTO\\BaoCaoCTHoaDonDTO.cs",
+              "RelativeToolTip": "DAL\\DTO\\BaoCaoCTHoaDonDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "PhieuNhapDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DTO\\PhieuNhapDTO.cs",
+              "RelativeDocumentMoniker": "DAL\\DTO\\PhieuNhapDTO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DTO\\PhieuNhapDTO.cs",
+              "RelativeToolTip": "DAL\\DTO\\PhieuNhapDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ChiTietHangHoaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DTO\\ChiTietHangHoaDTO.cs",
+              "RelativeDocumentMoniker": "DAL\\DTO\\ChiTietHangHoaDTO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DTO\\ChiTietHangHoaDTO.cs",
+              "RelativeToolTip": "DAL\\DTO\\ChiTietHangHoaDTO.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ChiTietHoaDonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DTO\\ChiTietHoaDonDTO.cs",
+              "RelativeDocumentMoniker": "DAL\\DTO\\ChiTietHoaDonDTO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DTO\\ChiTietHoaDonDTO.cs",
+              "RelativeToolTip": "DAL\\DTO\\ChiTietHoaDonDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "frmKhoHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmKhoHang.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\frmKhoHang.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmKhoHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "frmNguoiDung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmNguoiDung.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\frmNguoiDung.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmNguoiDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "frmChiTietSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmChiTietSanPham.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\frmChiTietSanPham.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmChiTietSanPham.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIAdmin\\frmChiTietSanPham.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAABoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "frmSelling.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmSelling.Designer.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmSelling.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmSelling.Designer.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIUser\\frmSelling.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPkEAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-24T13:21:43.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "frmSelling.resx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmSelling.resx",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmSelling.resx",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmSelling.resx",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIUser\\frmSelling.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-24T13:21:43.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "frmNhaCungCap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmNhaCungCap.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmNhaCungCap.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmNhaCungCap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "frmNhaSanXuat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmNhaSanXuat.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmNhaSanXuat.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmNhaSanXuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "frmLoai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmLoai.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmLoai.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmLoai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "rptHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\rptHoaDon.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\rptHoaDon.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\rptHoaDon.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIUser\\rptHoaDon.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-03-24T13:21:43.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "frmNhaCungCap.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmNhaCungCap.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmNhaCungCap.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmNhaCungCap.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIUser\\frmNhaCungCap.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAArwE8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "frmUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\frmUser.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\frmUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\frmUser.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\frmUser.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAApwE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "frmWaiting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\frmWaiting.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\frmWaiting.cs",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\frmWaiting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "frmUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\frmUser.Designer.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\frmUser.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\frmUser.Designer.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\frmUser.Designer.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAewIYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "frmDuocSi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmDuocSi.Designer.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\frmDuocSi.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmDuocSi.Designer.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIAdmin\\frmDuocSi.Designer.cs",
+              "ViewState": "AQIAANMBAAAAAAAAAAAUwNwBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-24T13:21:43.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "MainFrmAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\MainFrmAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\MainFrmAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\MainFrmAdmin.Designer.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\MainFrmAdmin.Designer.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAkwG4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-24T13:21:43.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "frmKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmKhachHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmKhachHang.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIUser\\frmKhachHang.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAiwMsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "frmNhaSanXuat.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmNhaSanXuat.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmNhaSanXuat.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmNhaSanXuat.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIUser\\frmNhaSanXuat.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAADwv7UAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIUser\\frmSanPham.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIUser\\frmSanPham.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIUser\\frmSanPham.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAywAIBAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "frmNguoiDung.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmNguoiDung.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\frmNguoiDung.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmNguoiDung.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIAdmin\\frmNguoiDung.cs",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAmwN8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "frmKhoHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmKhoHang.cs",
+              "RelativeDocumentMoniker": "UIUXHIEUTHUOC\\UIAdmin\\frmKhoHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\UIUXHIEUTHUOC\\UIAdmin\\frmKhoHang.cs",
+              "RelativeToolTip": "UIUXHIEUTHUOC\\UIAdmin\\frmKhoHang.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAcwMYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-24T13:21:43.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "SanPhamDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\SanPhamDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\SanPhamDAL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\SanPhamDAL.cs",
+              "RelativeToolTip": "DAL\\SanPhamDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "QLHieuThuoc.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\QLHieuThuoc.edmx",
+              "RelativeDocumentMoniker": "DAL\\QLHieuThuoc.edmx",
+              "ToolTip": "D:\\CSharp\\LAPTRINHWEB\\QL_HieuThuocWinForm\\DAL\\QLHieuThuoc.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-24T13:21:43.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "tbl_NHASANXUAT.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\tbl_NHASANXUAT.cs",
+              "RelativeDocumentMoniker": "DAL\\tbl_NHASANXUAT.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\tbl_NHASANXUAT.cs",
+              "RelativeToolTip": "DAL\\tbl_NHASANXUAT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-24T13:21:43.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "tbl_NHACUNGCAP.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\tbl_NHACUNGCAP.cs",
+              "RelativeDocumentMoniker": "DAL\\tbl_NHACUNGCAP.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\tbl_NHACUNGCAP.cs",
+              "RelativeToolTip": "DAL\\tbl_NHACUNGCAP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-24T13:21:43.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "tbl_LOAI.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\tbl_LOAI.cs",
+              "RelativeDocumentMoniker": "DAL\\tbl_LOAI.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\tbl_LOAI.cs",
+              "RelativeToolTip": "DAL\\tbl_LOAI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-24T13:21:43.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "tbl_CHITIETHANGHOA.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\tbl_CHITIETHANGHOA.cs",
+              "RelativeDocumentMoniker": "DAL\\tbl_CHITIETHANGHOA.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\tbl_CHITIETHANGHOA.cs",
+              "RelativeToolTip": "DAL\\tbl_CHITIETHANGHOA.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-24T13:21:43.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "SanPhamDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DTO\\SanPhamDTO.cs",
+              "RelativeDocumentMoniker": "DAL\\DTO\\SanPhamDTO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\DTO\\SanPhamDTO.cs",
+              "RelativeToolTip": "DAL\\DTO\\SanPhamDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:21:43.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "tbl_SANPHAM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\tbl_SANPHAM.cs",
+              "RelativeDocumentMoniker": "DAL\\tbl_SANPHAM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QL_HieuThuocWinForm\\QL_HieuThuocWinForm\\DAL\\tbl_SANPHAM.cs",
+              "RelativeToolTip": "DAL\\tbl_SANPHAM.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-03-24T13:21:43.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
